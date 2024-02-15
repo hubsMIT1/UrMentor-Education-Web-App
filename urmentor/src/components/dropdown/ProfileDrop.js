@@ -5,7 +5,6 @@
 // import settings from '../src/img/settings.png';
 // import help from '../src/img/question.png';
 // import logout from '../src/img/log-out.png';
-import { set } from 'mongoose';
 import './profileDrop.css';
 import React, {useState, useEffect, useRef} from 'react';
 import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
